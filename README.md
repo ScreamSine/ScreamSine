@@ -1,8 +1,21 @@
-﻿# ScreamSine
+
 ```
-> Hello, there! 👋
+> Hello, there! 👋 
+My name is Vadim.
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=screamsine&layout)](https://github.com/screamsine/github-readme-stats)
+<div id="header" align="left">
+   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" height="225px"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+<hr>
 
 ### :bell: Contact with me:
 * vadimir29@gmail.com
