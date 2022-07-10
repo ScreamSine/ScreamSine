@@ -1,6 +1,6 @@
 
 ```
-> Hello, there! 👋 
+Hello, there! 👋 
 My name is Vadim.
 ```
 <div align="left">
