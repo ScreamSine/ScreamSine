@@ -21,5 +21,4 @@ My name is Vadim.
 <hr>
 
 ### :bell: Contacts:
-* vadimir29@gmail.com
 * Telegram @Vadimir_29
