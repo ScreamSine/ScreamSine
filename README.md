@@ -1,4 +1,3 @@
-<div style="width: 80%; margin: 10px auto">
 ```
 Hello, there! 👋 
 My name is Vadim.
@@ -24,4 +23,3 @@ My name is Vadim.
 ### :bell: Contacts:
 * vadimir29@gmail.com
 * Telegram @Vadimir_29
-</div>
